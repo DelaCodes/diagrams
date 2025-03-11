@@ -58,9 +58,6 @@
         <mxCell id="oOiWM4VNdD_S-7e1pvhl-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oOiWM4VNdD_S-7e1pvhl-7" target="oOiWM4VNdD_S-7e1pvhl-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oOiWM4VNdD_S-7e1pvhl-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oOiWM4VNdD_S-7e1pvhl-7" target="oOiWM4VNdD_S-7e1pvhl-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="oOiWM4VNdD_S-7e1pvhl-7" value="Domain1.App" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -69,6 +66,11 @@
         </mxCell>
         <mxCell id="l0F_Z9eBLeVLv1C7WEuF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oOiWM4VNdD_S-7e1pvhl-9" target="l0F_Z9eBLeVLv1C7WEuF-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_r3g6rlvjKkUjJMqAIaU-29" value="DataModelDto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l0F_Z9eBLeVLv1C7WEuF-11">
+          <mxGeometry x="0.3724" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="l0F_Z9eBLeVLv1C7WEuF-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oOiWM4VNdD_S-7e1pvhl-11" target="l0F_Z9eBLeVLv1C7WEuF-14">
           <mxGeometry relative="1" as="geometry">
@@ -133,7 +135,7 @@
             <mxPoint x="630" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oOiWM4VNdD_S-7e1pvhl-27" value="Contracts.Internal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" parent="1" vertex="1">
+        <mxCell id="oOiWM4VNdD_S-7e1pvhl-27" value="Contracts.Internal&lt;br&gt;(Primitives Only)" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l0F_Z9eBLeVLv1C7WEuF-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
@@ -143,7 +145,7 @@
           <mxGeometry x="230" y="790" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l0F_Z9eBLeVLv1C7WEuF-14" value="BuildingBlocks&lt;br&gt;ValueObjects" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_r3g6rlvjKkUjJMqAIaU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="_r3g6rlvjKkUjJMqAIaU-14" target="_r3g6rlvjKkUjJMqAIaU-17" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -156,6 +158,11 @@
         </mxCell>
         <mxCell id="_r3g6rlvjKkUjJMqAIaU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="_r3g6rlvjKkUjJMqAIaU-17" target="_r3g6rlvjKkUjJMqAIaU-20" parent="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_r3g6rlvjKkUjJMqAIaU-30" value="DataModelDto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_r3g6rlvjKkUjJMqAIaU-15">
+          <mxGeometry x="0.3172" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_r3g6rlvjKkUjJMqAIaU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="_r3g6rlvjKkUjJMqAIaU-18" target="_r3g6rlvjKkUjJMqAIaU-21" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -183,6 +190,12 @@
         </mxCell>
         <mxCell id="_r3g6rlvjKkUjJMqAIaU-22" value="WebApi&lt;br&gt;(REPR Pattern?)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-425" y="230" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_r3g6rlvjKkUjJMqAIaU-31" value="Core holds items that do not have an a &quot;domain&quot; yet.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It is a catch all&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="780" y="310" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_r3g6rlvjKkUjJMqAIaU-32" value="Eventually each domain should have its own set of projects" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
