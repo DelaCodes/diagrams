@@ -219,6 +219,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UWyv3s8Oi2Gyx_KI4kip-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="UWyv3s8Oi2Gyx_KI4kip-1" target="UWyv3s8Oi2Gyx_KI4kip-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyv3s8Oi2Gyx_KI4kip-15" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="UWyv3s8Oi2Gyx_KI4kip-1" target="UWyv3s8Oi2Gyx_KI4kip-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UWyv3s8Oi2Gyx_KI4kip-1" value="Web API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-102" y="-123" width="531" height="60" as="geometry" />
         </mxCell>
@@ -243,13 +249,13 @@
         <mxCell id="UWyv3s8Oi2Gyx_KI4kip-8" value="&lt;b&gt;&amp;nbsp;Ordering&lt;/b&gt;&lt;br&gt;&lt;br&gt;Order Placement / Validation&lt;br&gt;&lt;br&gt;Order Tracking &amp;amp; Fulfillment&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Employee Assisted Ordering&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="84" y="84" width="120" height="166" as="geometry" />
         </mxCell>
-        <mxCell id="UWyv3s8Oi2Gyx_KI4kip-9" value="&lt;b&gt;&amp;nbsp;Notifications&lt;/b&gt;&lt;br&gt;&lt;br&gt;-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="296" y="328" width="120" height="60" as="geometry" />
+        <mxCell id="UWyv3s8Oi2Gyx_KI4kip-9" value="&lt;b&gt;&amp;nbsp;Notifications&lt;/b&gt;&lt;br&gt;&lt;br&gt;Push for Apps / Website&lt;div&gt;Text&lt;/div&gt;&lt;div&gt;SMS&lt;/div&gt;&lt;div&gt;Low Stock alerts&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="296" y="328" width="120" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="UWyv3s8Oi2Gyx_KI4kip-10" value="&lt;b&gt;&amp;nbsp;Payments&lt;/b&gt;&lt;br&gt;&lt;br&gt;-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="103.5" y="327" width="120" height="60" as="geometry" />
+        <mxCell id="UWyv3s8Oi2Gyx_KI4kip-10" value="&lt;b&gt;&amp;nbsp;Payments&lt;/b&gt;&lt;br&gt;&lt;br&gt;Payment Methods&lt;br&gt;&lt;div&gt;Refunds&lt;/div&gt;&lt;div&gt;Cancellations&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="327" width="120" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="UWyv3s8Oi2Gyx_KI4kip-11" value="&lt;b&gt;&amp;nbsp;Loyalty&lt;/b&gt;&lt;br&gt;&lt;br&gt;-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="UWyv3s8Oi2Gyx_KI4kip-11" value="&lt;b&gt;&amp;nbsp;Loyalty&lt;/b&gt;&lt;br&gt;&lt;br&gt;Point accrual&lt;div&gt;Point redemption&lt;/div&gt;&lt;div&gt;Loyalty tiers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-95" y="268" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UWyv3s8Oi2Gyx_KI4kip-13" value="&lt;b&gt;Employees&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Employee Registration/Auth&lt;br&gt;Roles&lt;/div&gt;&lt;div&gt;Food Credits&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" vertex="1" parent="1">
